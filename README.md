@@ -4,4 +4,5 @@ Based on the attached files you can make direct order at jlcpcb.
 
 # Ready product pictures.
 
-Please find them in /img/ directory.
+![](https://raw.githubusercontent.com/sq6emm/w1ghz-dualband-feedhorn-10Ghz-24GHz/main/img/PXL_20240301_114246802.jpg)
+
